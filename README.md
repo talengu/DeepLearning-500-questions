@@ -453,3 +453,5 @@
 [ch01]:docs/第一章_数学基础.html
 [ch02]:docs/第二章_机器学习基础.html
 [ch03]:docs/第三章_深度学习基础.html
+[ch04]:docs/第四章_经典网络.html
+
